@@ -1,3 +1,8 @@
 
 Git operationsları yapmayı öğrendim.
+<<<<<<< HEAD
 Çalışmaya devam ediyorum.
+=======
+Çalışmaya deva
+Çalışmaya devamm
+>>>>>>> developer-C8208-Eric
