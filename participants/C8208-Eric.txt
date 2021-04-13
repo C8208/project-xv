@@ -2,3 +2,4 @@ Git operationsları yapmayı öğrendim.
 Çalışmaya deva
 Çalışmaya devam
 Adem abi ile çalışıyoruz.
+Değişiklik yaptık.
