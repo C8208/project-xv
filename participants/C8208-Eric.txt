@@ -1,10 +1,12 @@
 
-Git operationsları yapmayı öğrendim.
+
 <<<<<<< HEAD
 Çalışmaya devam ediyorum.
 =======
-Çalışmaya deva
-Çalışmaya devamm
-Adem abi ile çaşışıyoruz.
-Cavlaz neredesin? Neyin peşindesin?
+
+
+>>>>>>> developer-C8208-Eric
+=======
+Çalışmaya devam
+Adem abi ile çalışıyoruz.
 >>>>>>> developer-C8208-Eric
