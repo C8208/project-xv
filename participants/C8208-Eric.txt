@@ -1,12 +1,8 @@
 
-
-<<<<<<< HEAD
+HEAD
 Çalışmaya devam ediyorum.
-=======
-
-
->>>>>>> developer-C8208-Eric
-=======
+developer-C8208-Eric
 Çalışmaya devam
 Adem abi ile çalışıyoruz.
->>>>>>> developer-C8208-Eric
+Çalıştık.
+developer-C8208-Eric
