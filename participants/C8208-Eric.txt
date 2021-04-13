@@ -5,4 +5,5 @@ Git operationsları yapmayı öğrendim.
 =======
 Çalışmaya deva
 Çalışmaya devamm
+Adem abi ile çaşışıyoruz.
 >>>>>>> developer-C8208-Eric
